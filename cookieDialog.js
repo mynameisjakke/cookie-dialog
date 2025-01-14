@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
         <p style="color: #45494b; font-size: 0.82rem; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; padding-bottom: 10px;">
           Vi använder cookies för att ge dig den bästa upplevelsen. 
           Vänligen välj om du vill acceptera eller neka våra cookies. 
-          Läs mer om vår <a href="${cookiePolicyURL}" target="_blank">Cookiepolicy</a> och <a href="${privacyPolicyURL}" target="_blank">Integritetspolicy</a>.
+          Läs mer om vår <a style="color: #2251ff;" href="${cookiePolicyURL}" target="_blank">Cookiepolicy</a> och <a style="color: #2251ff;" href="${privacyPolicyURL}" target="_blank">Integritetspolicy</a>.
         </p>
         <button style="padding: 8px 18px; border: 1px solid #202324; border-radius: 5px; background-color: #202324; color: #fff;" id="acceptCookies">Acceptera alla</button>
         <button style="padding: 8px 18px; border: 1px solid #202324; border-radius: 5px; background-color: #fff; color: #202324;" id="rejectCookies">Neka alla</button>
